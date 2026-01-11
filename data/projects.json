@@ -1,0 +1,396 @@
+[
+  {
+    "name": "455",
+    "targetRecipeId": "1768065461127",
+    "targetQuantity": 1,
+    "maxDepth": 10,
+    "id": "1768070756980",
+    "items": {
+      "1768065461127": {
+        "itemId": "1768065461127",
+        "targetQuantity": 1,
+        "currentQuantity": 0,
+        "baseQuantity": 1
+      },
+      "1768042017725": {
+        "itemId": "1768042017725",
+        "targetQuantity": 15,
+        "currentQuantity": 0,
+        "baseQuantity": 15
+      },
+      "1768041985254": {
+        "itemId": "1768041985254",
+        "targetQuantity": 30,
+        "currentQuantity": 30,
+        "baseQuantity": 30
+      },
+      "1768041972747": {
+        "itemId": "1768041972747",
+        "targetQuantity": 0,
+        "currentQuantity": 0,
+        "baseQuantity": 4800
+      },
+      "1768041960867": {
+        "itemId": "1768041960867",
+        "targetQuantity": 0,
+        "currentQuantity": 0,
+        "baseQuantity": 768000
+      },
+      "1768041854359": {
+        "itemId": "1768041854359",
+        "targetQuantity": 17,
+        "currentQuantity": 11,
+        "baseQuantity": 17
+      },
+      "1768041833332": {
+        "itemId": "1768041833332",
+        "targetQuantity": 96,
+        "currentQuantity": 0,
+        "baseQuantity": 272
+      },
+      "1768041792719": {
+        "itemId": "1768041792719",
+        "targetQuantity": 15360,
+        "currentQuantity": 0,
+        "baseQuantity": 43520
+      },
+      "1768042198234": {
+        "itemId": "1768042198234",
+        "targetQuantity": 5,
+        "currentQuantity": 0,
+        "baseQuantity": 5
+      },
+      "1768041892488": {
+        "itemId": "1768041892488",
+        "targetQuantity": 25,
+        "currentQuantity": 0,
+        "baseQuantity": 25
+      },
+      "1768041878899": {
+        "itemId": "1768041878899",
+        "targetQuantity": 4000,
+        "currentQuantity": 0,
+        "baseQuantity": 4000
+      },
+      "1768041786407": {
+        "itemId": "1768041786407",
+        "targetQuantity": 640000,
+        "currentQuantity": 0,
+        "baseQuantity": 640000
+      },
+      "1768041942959": {
+        "itemId": "1768041942959",
+        "targetQuantity": 5,
+        "currentQuantity": 0,
+        "baseQuantity": 5
+      },
+      "1768041926139": {
+        "itemId": "1768041926139",
+        "targetQuantity": 800,
+        "currentQuantity": 0,
+        "baseQuantity": 800
+      },
+      "1768041912843": {
+        "itemId": "1768041912843",
+        "targetQuantity": 128000,
+        "currentQuantity": 0,
+        "baseQuantity": 128000
+      },
+      "1768042150159": {
+        "itemId": "1768042150159",
+        "targetQuantity": 5,
+        "currentQuantity": 0,
+        "baseQuantity": 5
+      },
+      "1768042118545": {
+        "itemId": "1768042118545",
+        "targetQuantity": 10,
+        "currentQuantity": 0,
+        "baseQuantity": 10
+      },
+      "1768042105363": {
+        "itemId": "1768042105363",
+        "targetQuantity": 1600,
+        "currentQuantity": 0,
+        "baseQuantity": 1600
+      },
+      "1768041779904": {
+        "itemId": "1768041779904",
+        "targetQuantity": 256000,
+        "currentQuantity": 0,
+        "baseQuantity": 256000
+      },
+      "1768042041305": {
+        "itemId": "1768042041305",
+        "targetQuantity": 25,
+        "currentQuantity": 0,
+        "baseQuantity": 25
+      }
+    },
+    "nodeOverrides": {},
+    "tree": {
+      "itemId": "1768065461127",
+      "itemName": "Titanium Drill 455",
+      "baseQuantity": 1,
+      "quantity": 1,
+      "currentQuantity": 0,
+      "isBase": false,
+      "children": [
+        {
+          "itemId": "1768042017725",
+          "itemName": "Refined Diamond",
+          "baseQuantity": 10,
+          "quantity": 10,
+          "currentQuantity": 0,
+          "isBase": false,
+          "children": [
+            {
+              "itemId": "1768041985254",
+              "itemName": "Enchanted Diamond Block",
+              "baseQuantity": 20,
+              "quantity": 20,
+              "currentQuantity": 20,
+              "isBase": false,
+              "children": [
+                {
+                  "itemId": "1768041972747",
+                  "itemName": "Enchanted Diamond",
+                  "baseQuantity": 3200,
+                  "quantity": 0,
+                  "currentQuantity": 0,
+                  "isBase": false,
+                  "children": [
+                    {
+                      "itemId": "1768041960867",
+                      "itemName": "Diamond",
+                      "baseQuantity": 512000,
+                      "quantity": 0,
+                      "currentQuantity": 0,
+                      "isBase": true,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "itemId": "1768041854359",
+          "itemName": "Refined Titanium",
+          "baseQuantity": 12,
+          "quantity": 12,
+          "currentQuantity": 11,
+          "isBase": false,
+          "children": [
+            {
+              "itemId": "1768041833332",
+              "itemName": "Enchanted Titanium",
+              "baseQuantity": 192,
+              "quantity": 16,
+              "currentQuantity": 0,
+              "isBase": false,
+              "children": [
+                {
+                  "itemId": "1768041792719",
+                  "itemName": "Titanium",
+                  "baseQuantity": 30720,
+                  "quantity": 2560,
+                  "currentQuantity": 0,
+                  "isBase": true,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "itemId": "1768042198234",
+          "itemName": "Mithril Plate",
+          "baseQuantity": 5,
+          "quantity": 5,
+          "currentQuantity": 0,
+          "isBase": false,
+          "children": [
+            {
+              "itemId": "1768041854359",
+              "itemName": "Refined Titanium",
+              "baseQuantity": 5,
+              "quantity": 5,
+              "currentQuantity": 0,
+              "isBase": false,
+              "children": [
+                {
+                  "itemId": "1768041833332",
+                  "itemName": "Enchanted Titanium",
+                  "baseQuantity": 80,
+                  "quantity": 80,
+                  "currentQuantity": 0,
+                  "isBase": false,
+                  "children": [
+                    {
+                      "itemId": "1768041792719",
+                      "itemName": "Titanium",
+                      "baseQuantity": 12800,
+                      "quantity": 12800,
+                      "currentQuantity": 0,
+                      "isBase": true,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "itemId": "1768041892488",
+              "itemName": "Refined Mithril",
+              "baseQuantity": 25,
+              "quantity": 25,
+              "currentQuantity": 0,
+              "isBase": false,
+              "children": [
+                {
+                  "itemId": "1768041878899",
+                  "itemName": "Enchanted Mithril",
+                  "baseQuantity": 4000,
+                  "quantity": 4000,
+                  "currentQuantity": 0,
+                  "isBase": false,
+                  "children": [
+                    {
+                      "itemId": "1768041786407",
+                      "itemName": "Mithril",
+                      "baseQuantity": 640000,
+                      "quantity": 640000,
+                      "currentQuantity": 0,
+                      "isBase": true,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "itemId": "1768041942959",
+              "itemName": "Enchanted Iron Block",
+              "baseQuantity": 5,
+              "quantity": 5,
+              "currentQuantity": 0,
+              "isBase": false,
+              "children": [
+                {
+                  "itemId": "1768041926139",
+                  "itemName": "Enchanted Iron Ingot",
+                  "baseQuantity": 800,
+                  "quantity": 800,
+                  "currentQuantity": 0,
+                  "isBase": false,
+                  "children": [
+                    {
+                      "itemId": "1768041912843",
+                      "itemName": "Iron Ingot",
+                      "baseQuantity": 128000,
+                      "quantity": 128000,
+                      "currentQuantity": 0,
+                      "isBase": true,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "itemId": "1768042150159",
+              "itemName": "Golden Plate",
+              "baseQuantity": 5,
+              "quantity": 5,
+              "currentQuantity": 0,
+              "isBase": false,
+              "children": [
+                {
+                  "itemId": "1768042118545",
+                  "itemName": "Enchanted Gold Block",
+                  "baseQuantity": 10,
+                  "quantity": 10,
+                  "currentQuantity": 0,
+                  "isBase": false,
+                  "children": [
+                    {
+                      "itemId": "1768042105363",
+                      "itemName": "Enchanted Gold Ingot",
+                      "baseQuantity": 1600,
+                      "quantity": 1600,
+                      "currentQuantity": 0,
+                      "isBase": false,
+                      "children": [
+                        {
+                          "itemId": "1768041779904",
+                          "itemName": "Gold Ingot",
+                          "baseQuantity": 256000,
+                          "quantity": 256000,
+                          "currentQuantity": 0,
+                          "isBase": true,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "itemId": "1768042017725",
+                  "itemName": "Refined Diamond",
+                  "baseQuantity": 5,
+                  "quantity": 5,
+                  "currentQuantity": 0,
+                  "isBase": false,
+                  "children": [
+                    {
+                      "itemId": "1768041985254",
+                      "itemName": "Enchanted Diamond Block",
+                      "baseQuantity": 10,
+                      "quantity": 10,
+                      "currentQuantity": 10,
+                      "isBase": false,
+                      "children": [
+                        {
+                          "itemId": "1768041972747",
+                          "itemName": "Enchanted Diamond",
+                          "baseQuantity": 1600,
+                          "quantity": 0,
+                          "currentQuantity": 0,
+                          "isBase": false,
+                          "children": [
+                            {
+                              "itemId": "1768041960867",
+                              "itemName": "Diamond",
+                              "baseQuantity": 256000,
+                              "quantity": 0,
+                              "currentQuantity": 0,
+                              "isBase": true,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "itemId": "1768042041305",
+                  "itemName": "Glacite Jewel",
+                  "baseQuantity": 25,
+                  "quantity": 25,
+                  "currentQuantity": 0,
+                  "isBase": true,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "createdAt": "2026-01-10T18:45:56.980Z",
+    "updatedAt": "2026-01-10T19:24:25.240Z"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Gold Ingot",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768041779904"
+  },
+  {
+    "name": "Mithril",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768041786407"
+  },
+  {
+    "name": "Titanium",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768041792719"
+  },
+  {
+    "name": "Coal",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768041811287"
+  },
+  {
+    "name": "Enchanted Titanium",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041792719",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041833332"
+  },
+  {
+    "name": "Refined Titanium",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041833332",
+        "quantity": 16
+      }
+    ],
+    "id": "1768041854359"
+  },
+  {
+    "name": "Enchanted Mithril",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041786407",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041878899"
+  },
+  {
+    "name": "Refined Mithril",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041878899",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041892488"
+  },
+  {
+    "name": "Iron Ingot",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768041912843"
+  },
+  {
+    "name": "Enchanted Iron Ingot",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041912843",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041926139"
+  },
+  {
+    "name": "Enchanted Iron Block",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041926139",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041942959"
+  },
+  {
+    "name": "Diamond",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768041960867"
+  },
+  {
+    "name": "Enchanted Diamond",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041960867",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041972747"
+  },
+  {
+    "name": "Enchanted Diamond Block",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041972747",
+        "quantity": 160
+      }
+    ],
+    "id": "1768041985254"
+  },
+  {
+    "name": "Refined Diamond",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041985254",
+        "quantity": 2
+      }
+    ],
+    "id": "1768042017725"
+  },
+  {
+    "name": "Glacite Jewel",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768042041305"
+  },
+  {
+    "name": "Enchanted Gold Ingot",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041779904",
+        "quantity": 160
+      }
+    ],
+    "id": "1768042105363"
+  },
+  {
+    "name": "Enchanted Gold Block",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768042105363",
+        "quantity": 160
+      }
+    ],
+    "id": "1768042118545"
+  },
+  {
+    "name": "Golden Plate",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768042118545",
+        "quantity": 2
+      },
+      {
+        "itemId": "1768042017725",
+        "quantity": 1
+      },
+      {
+        "itemId": "1768042041305",
+        "quantity": 5
+      }
+    ],
+    "id": "1768042150159"
+  },
+  {
+    "name": "Mithril Plate",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768041854359",
+        "quantity": 1
+      },
+      {
+        "itemId": "1768041892488",
+        "quantity": 5
+      },
+      {
+        "itemId": "1768041942959",
+        "quantity": 1
+      },
+      {
+        "itemId": "1768042150159",
+        "quantity": 1
+      }
+    ],
+    "id": "1768042198234"
+  },
+  {
+    "name": "Titanium Drill 355",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768042198234",
+        "quantity": 5
+      },
+      {
+        "itemId": "1768041854359",
+        "quantity": 12
+      },
+      {
+        "itemId": "1768042017725",
+        "quantity": 10
+      }
+    ],
+    "id": "1768042254740"
+  },
+  {
+    "name": "Titanium Drill 455",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768042017725",
+        "quantity": 10
+      },
+      {
+        "itemId": "1768041854359",
+        "quantity": 12
+      },
+      {
+        "itemId": "1768042198234",
+        "quantity": 5
+      }
+    ],
+    "id": "1768065461127"
+  },
+  {
+    "name": "Plasma",
+    "output": 1,
+    "isBase": true,
+    "ingredients": [],
+    "id": "1768065470164"
+  },
+  {
+    "name": "Titanium Drill 555",
+    "output": 1,
+    "isBase": false,
+    "ingredients": [
+      {
+        "itemId": "1768042017725",
+        "quantity": 20
+      },
+      {
+        "itemId": "1768041854359",
+        "quantity": 16
+      },
+      {
+        "itemId": "1768041942959",
+        "quantity": 2
+      },
+      {
+        "itemId": "1768042198234",
+        "quantity": 10
+      },
+      {
+        "itemId": "1768065470164",
+        "quantity": 20
+      }
+    ],
+    "id": "1768065521318"
+  }
+]
